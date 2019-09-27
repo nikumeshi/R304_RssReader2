@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">R304_RssReader2</string>
+    <string name="news_title">ニュースタイトル</string>
+    <string name="pub_date">%1$tm月%1$td日%1$tH時</string>
+</resources>
